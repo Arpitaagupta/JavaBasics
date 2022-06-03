@@ -1,28 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d7c3250-8191-4eed-a2eb-cf4b235eae90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaBasics.iml" afterDir="false" />
+    <list default="true" id="6d7c3250-8191-4eed-a2eb-cf4b235eae90" name="Changes" comment="Java Basics">
       <change afterPath="$PROJECT_DIR$/src/Arrays/PracticeSet/ques1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/PracticeSet/ques2.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/PracticeSet/ques3.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/PracticeSet/ques4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays/PracticeSet/ques7.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/arrays1.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/arrays2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arrays/arrays_notes" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Arrays/reverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/DifferentWaysToPrint" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/hasNextInt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/literals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basics/takingInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/methodsOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/waysOfDeclaringString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,6 +127,14 @@
       <option name="presentableId" value="Default" />
       <updated>1654251608354</updated>
     </task>
+    <task id="LOCAL-00001" summary="Java Basics">
+      <created>1654271159925</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654271159925</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -152,5 +147,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java Basics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Basics" />
   </component>
 </project>
