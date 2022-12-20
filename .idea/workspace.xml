@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d7c3250-8191-4eed-a2eb-cf4b235eae90" name="Changes" comment="Java Basics">
-      <change afterPath="$PROJECT_DIR$/src/Operators/incrementAndDecrementOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators/precedenceAndAssociativity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators/ques1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators/ques2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators/ques3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators/ques4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Operators/ques5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Strings/ques1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ifElse/ifElseStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/methods/methodsInJava" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/patterns/pattern1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,16 +36,19 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.incrementAndDecrementOperators">
-    <configuration name="Strings.ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strings.ques1" />
+  <component name="RunManager" selected="Application.pattern1">
+    <configuration name="arithmeticOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.arithmeticOperators" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Strings.*" />
+          <option name="PATTERN" value="Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ques1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.ques1" />
+    <configuration name="pattern1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern1" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Operators.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ques4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.ques4" />
+    <configuration name="pattern2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patterns.pattern2" />
       <module name="JavaBasics" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Operators.*" />
+          <option name="PATTERN" value="patterns.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +110,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.pattern1" />
+        <item itemvalue="Application.arithmeticOperators" />
         <item itemvalue="Application.incrementAndDecrementOperators" />
+        <item itemvalue="Application.pattern2" />
         <item itemvalue="Application.ques5" />
-        <item itemvalue="Application.ques4" />
-        <item itemvalue="Application.Strings.ques1" />
-        <item itemvalue="Application.ques1" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654355813924</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Java Basics">
+      <created>1654359699387</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1654359699387</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
